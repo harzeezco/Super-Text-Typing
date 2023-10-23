@@ -13,7 +13,7 @@ Currently, two official plugins are available:
 - Clone the project
 
 ```bash
-git clone https://github.com/harzeezco/Movibes.git
+git clone https://github.com/harzeezco/Super-Text-Typing.git
 
 ```
 
