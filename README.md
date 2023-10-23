@@ -22,3 +22,6 @@ git clone https://github.com/harzeezco/Super-Text-Typing.git
 ```bash
 npm install
 ```
+### View
+
+![Home page screenshot](./src/assets/Typing.mp4)
